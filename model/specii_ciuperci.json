@@ -1,0 +1,1098 @@
+[
+  {
+    "nume": "Inonotus Obliquus",
+    "categorie": [
+      "choice edible",
+      "medicinal",
+      "firestarter"
+    ],
+    "denumire_populara": [
+      "Chaga"
+    ]
+  },
+  {
+    "nume": "Schizophyllum Commune",
+    "categorie": [
+      "choice edible",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Burete de mătreață",
+      "Ciupercă cu branhii"
+    ]
+  },
+  {
+    "nume": "Tylopilus Felleus",
+    "categorie": [
+      "choice edible"
+    ],
+    "denumire_populara": [
+      "Hrib amar"
+    ]
+  },
+  {
+    "nume": "Amanita Caesarea",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Roiniță",
+      "Crăiță",
+      "Burete domnesc"
+    ]
+  },
+  {
+    "nume": "Amanita Citrina",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Burete de lămâie"
+    ]
+  },
+  {
+    "nume": "Amanita Muscaria",
+    "categorie": [
+      "conditionally edible",
+      "hallucinogenic"
+    ],
+    "denumire_populara": [
+      "Muscăriță"
+    ]
+  },
+  {
+    "nume": "Amanita Rubescens",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Cuc",
+      "Plopenchiul"
+    ]
+  },
+  {
+    "nume": "Armillaria Ostoyae",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Ciuperca uriașă",
+      "Ciuperca de miere"
+    ]
+  },
+  {
+    "nume": "Armillaria Mellea",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Gheba de miere",
+      "Halimaș",
+      "Gheba tomnatică"
+    ]
+  },
+  {
+    "nume": "Calvatia Gigantea",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Bășica porcului"
+    ]
+  },
+  {
+    "nume": "Cerioporus Squamosus",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Urechea nucului",
+      "Păstrăv de nuc",
+      "Nucar"
+    ]
+  },
+  {
+    "nume": "Coprinellus Micaceus",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Balegă strălucitoare"
+    ]
+  },
+  {
+    "nume": "Coprinopsis Atramentaria",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Burete de cerneală",
+      "Burete nebun"
+    ]
+  },
+  {
+    "nume": "Coprinus Comatus",
+    "categorie": [
+      "conditionally edible",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Burete cu perucă",
+      "Căciula șarpelui"
+    ]
+  },
+  {
+    "nume": "Gyromitra Infula",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Mitra episcopului"
+    ]
+  },
+  {
+    "nume": "Hypholoma Capnoides",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Pucioasa Sântimbrului"
+    ]
+  },
+  {
+    "nume": "Kuehneromyces Mutabilis",
+    "categorie": [
+      "conditionally edible",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Gheba ciobanilor",
+      "Popincă"
+    ]
+  },
+  {
+    "nume": "Leccinum Scabrum",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Burete călugăresc"
+    ]
+  },
+  {
+    "nume": "Meripilus Giganteus",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Buretele ursului",
+      "Cocoșul pădurii"
+    ]
+  },
+  {
+    "nume": "Morchella Esculenta",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Zbârciog galben"
+    ]
+  },
+  {
+    "nume": "Morchella Importuna",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Zbârciog negru"
+    ]
+  },
+  {
+    "nume": "Neoboletus Erythropus",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Mânătarcă țigănească"
+    ]
+  },
+  {
+    "nume": "Stropharia Aeruginosa",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Burete șopârliță"
+    ]
+  },
+  {
+    "nume": "Suillellus Luridus",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Buretele vrăjitoarei",
+      "Pitarcă"
+    ]
+  },
+  {
+    "nume": "Verpa Bohemica",
+    "categorie": [
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Zbârciog fals",
+      "Ciuciulete de plop"
+    ]
+  },
+  {
+    "nume": "Agaricus Arvensis",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Ciuperca de camp",
+      "Șampinionul oilor"
+    ]
+  },
+  {
+    "nume": "Agaricus Augustus",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Sampinion varatic",
+      "Șampinion uriaș de pădure"
+    ]
+  },
+  {
+    "nume": "Agaricus Bitorquis",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Șampinion de pavaj"
+    ]
+  },
+  {
+    "nume": "Agaricus Campestris",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Ciuperca de bălegar"
+    ]
+  },
+  {
+    "nume": "Agaricus Sylvaticus",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Șampinion de pădure"
+    ]
+  },
+  {
+    "nume": "Agaricus Sylvicola",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Ciuperca de pădure"
+    ]
+  },
+  {
+    "nume": "Auricularia Auricula – Judae",
+    "categorie": [
+      "edible",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Urechea lui Iuda",
+      "Burete de soc",
+      "Urechi de lemn"
+    ]
+  },
+  {
+    "nume": "Boletus Edulis",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Mânătarcă",
+      "Hrib cenușiu"
+    ]
+  },
+  {
+    "nume": "Boletus Pinophilus",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Hrib de brad"
+    ]
+  },
+  {
+    "nume": "Boletus Reticulatus",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Hrib de vară"
+    ]
+  },
+  {
+    "nume": "Calocybe Gambosa",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Burete de mai"
+    ]
+  },
+  {
+    "nume": "Candolleomyces Candolleanus",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Burete nebun"
+    ]
+  },
+  {
+    "nume": "Cantharellus Cibarius",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Gălbior",
+      "Ciuciulete"
+    ]
+  },
+  {
+    "nume": "Cantharellus Cinereus",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Trâmbiță"
+    ]
+  },
+  {
+    "nume": "Chlorophyllum Rhacodes",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Burete șerpesc șofrăniu",
+      "Pălărie solzoasă"
+    ]
+  },
+  {
+    "nume": "Clavaria Fragilis",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Degetele zânelor"
+    ]
+  },
+  {
+    "nume": "Clavulina Coralloides",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Laba mâței",
+      "Crețișoară"
+    ]
+  },
+  {
+    "nume": "Clitopilus Prunulus",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Morăriță",
+      "Nicorete"
+    ]
+  },
+  {
+    "nume": "Craterellus Cornucopioides",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Cornul abundenței",
+      "Trâmbița piticilor"
+    ]
+  },
+  {
+    "nume": "Craterellus Tubaeformis",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Trompeta căprioarei",
+      "Gălbiori iernatici"
+    ]
+  },
+  {
+    "nume": "Fistulina Hepatica",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Limba boului"
+    ]
+  },
+  {
+    "nume": "Flammulina Velutipes",
+    "categorie": [
+      "edible",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Picior de catifea"
+    ]
+  },
+  {
+    "nume": "Grifola Frondosa",
+    "categorie": [
+      "edible",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Foalele vacii",
+      "Burete călugăresc"
+    ]
+  },
+  {
+    "nume": "Gymnopus Dryophilus",
+    "categorie": [
+      "edible",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Stejăriță"
+    ]
+  },
+  {
+    "nume": "Hydnum Repandum",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Flocoșel",
+      "Arici",
+      "Burete Țepos",
+      "Buretele Unchiașului"
+    ]
+  },
+  {
+    "nume": "Lacrymaria Lacrymabunda",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Văduvă plângăcioasă"
+    ]
+  },
+  {
+    "nume": "Lactarius Deliciosus",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Râșcov de brad",
+      "Pita lui Dumnezeu"
+    ]
+  },
+  {
+    "nume": "Leccinum Aurantiacum",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Hribă de plop",
+      "Pitarcă portocalie"
+    ]
+  },
+  {
+    "nume": "Leucoagaricus Leucothites",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Ciupercă de miriște"
+    ]
+  },
+  {
+    "nume": "Lyophyllum Decastes",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Tufăniță"
+    ]
+  },
+  {
+    "nume": "Macrolepiota Procera",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Parasol"
+    ]
+  },
+  {
+    "nume": "Oudemansiella Mucida",
+    "categorie": [
+      "edible",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Ciupercă de porțelan",
+      "Burete mucos"
+    ]
+  },
+  {
+    "nume": "Panellus Serotinus",
+    "categorie": [
+      "edible",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Păstrăv iernaric"
+    ]
+  },
+  {
+    "nume": "Pholiota Squarrosa",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Burete solzos"
+    ]
+  },
+  {
+    "nume": "Pleurotus Ostreatus",
+    "categorie": [
+      "edible",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Păstrăv de fag",
+      "Burete negru",
+      "Găinușa pădurii"
+    ]
+  },
+  {
+    "nume": "Pleurotus Pulmonarius",
+    "categorie": [
+      "edible",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Păstrăv de vară"
+    ]
+  },
+  {
+    "nume": "Pluteus Cervinus",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Ciuperca cerbilor"
+    ]
+  },
+  {
+    "nume": "Psathyrella Piluliformis",
+    "categorie": [
+      "edible",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Ciupercă umedă"
+    ]
+  },
+  {
+    "nume": "Pseudohydnum Gelatinosum",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Urechiușe",
+      "Tremurici"
+    ]
+  },
+  {
+    "nume": "Russula Aeruginea",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Vinețica porcului"
+    ]
+  },
+  {
+    "nume": "Russula Atropurpurea",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Oiță"
+    ]
+  },
+  {
+    "nume": "Russula Claroflava",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Vinețica ciobanului"
+    ]
+  },
+  {
+    "nume": "Russula Cyanoxantha",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Vinețica porumbeilor"
+    ]
+  },
+  {
+    "nume": "Russula Ochroleuca",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Oiță galbenă"
+    ]
+  },
+  {
+    "nume": "Russula Vesca",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Holoptincă",
+      "Pâinea pământului",
+      "Burete plăiesc"
+    ]
+  },
+  {
+    "nume": "Russula Virescens",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Hubiliță verde"
+    ]
+  },
+  {
+    "nume": "Russula Xerampelina",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Scrumbia pădurii"
+    ]
+  },
+  {
+    "nume": "Sparassis Crispa",
+    "categorie": [
+      "edible"
+    ],
+    "denumire_populara": [
+      "Creasta cocoșului"
+    ]
+  },
+  {
+    "nume": "Amanita Pantherina",
+    "categorie": [
+      "highly poisonous",
+      "hallucinogenic"
+    ],
+    "denumire_populara": [
+      "Burete pestriț"
+    ]
+  },
+  {
+    "nume": "Clitocybe Fragrans",
+    "categorie": [
+      "highly poisonous"
+    ],
+    "denumire_populara": [
+      "Anișoară"
+    ]
+  },
+  {
+    "nume": "Galerina Marginata",
+    "categorie": [
+      "highly poisonous",
+      "lethal"
+    ],
+    "denumire_populara": [
+      "Gheba de brad"
+    ]
+  },
+  {
+    "nume": "Inocybe Geophylla",
+    "categorie": [
+      "highly poisonous"
+    ],
+    "denumire_populara": [
+      "Ciupercă cu lame de pământ"
+    ]
+  },
+  {
+    "nume": "Fomes Fomentarius",
+    "categorie": [
+      "inedible",
+      "medicinal",
+      "firestarter"
+    ],
+    "denumire_populara": [
+      "Iasca fagului",
+      "Copită de iască"
+    ]
+  },
+  {
+    "nume": "Fomitopsis Pinicola",
+    "categorie": [
+      "inedible",
+      "medicinal",
+      "firestarter"
+    ],
+    "denumire_populara": [
+      "Iasca Coniferelor"
+    ]
+  },
+  {
+    "nume": "Fomitopsis Betulina",
+    "categorie": [
+      "inedible",
+      "medicinal",
+      "firestarter"
+    ],
+    "denumire_populara": [
+      "Urechea mesteacănului"
+    ]
+  },
+  {
+    "nume": "Ganoderma Applanatum",
+    "categorie": [
+      "inedible",
+      "medicinal",
+      "firestarter"
+    ],
+    "denumire_populara": [
+      "Babiță",
+      "Băcălie de fag"
+    ]
+  },
+  {
+    "nume": "Stereum Hirsutum",
+    "categorie": [
+      "inedible",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Căpruță"
+    ]
+  },
+  {
+    "nume": "Trametes Versicolor",
+    "categorie": [
+      "inedible",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Scorțar",
+      "Coada curcanului",
+      "Fusta țigăncii"
+    ]
+  },
+  {
+    "nume": "Amanita Phalloides",
+    "categorie": [
+      "lethal"
+    ],
+    "denumire_populara": [
+      "Buretele viperei"
+    ]
+  },
+  {
+    "nume": "Amanita Bisporigera",
+    "categorie": [
+      "lethal"
+    ],
+    "denumire_populara": [
+      "Burete primăvăratic",
+      "Înger distrugător"
+    ]
+  },
+  {
+    "nume": "Cortinarius Rubellus",
+    "categorie": [
+      "lethal"
+    ],
+    "denumire_populara": [
+      "Pălărie ucigașă"
+    ]
+  },
+  {
+    "nume": "Gyromitra Esculenta",
+    "categorie": [
+      "lethal"
+    ],
+    "denumire_populara": [
+      "Zbârciog gras"
+    ]
+  },
+  {
+    "nume": "Paxillus Involutus",
+    "categorie": [
+      "lethal"
+    ],
+    "denumire_populara": [
+      "Burete porcesc"
+    ]
+  },
+  {
+    "nume": "Evernia Prunastri",
+    "categorie": [
+      "lichen",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Lichen de prun",
+      "Mușchi de stejar"
+    ]
+  },
+  {
+    "nume": "Parmelia Sulcata",
+    "categorie": [
+      "lichen",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Lichenul scut"
+    ]
+  },
+  {
+    "nume": "Usnea",
+    "categorie": [
+      "lichen",
+      "medicinal",
+      "firestarter"
+    ],
+    "denumire_populara": [
+      "Licheni bărboși",
+      "Old Man s Beard"
+    ]
+  },
+  {
+    "nume": "Xanthoria Parietina",
+    "categorie": [
+      "lichen",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Lichenul galben"
+    ]
+  },
+  {
+    "nume": "Agaricus Xanthodermus",
+    "categorie": [
+      "poisonous"
+    ],
+    "denumire_populara": [
+      "Șampinion sulfuros"
+    ]
+  },
+  {
+    "nume": "Cortinarius Traganus",
+    "categorie": [
+      "poisonous"
+    ],
+    "denumire_populara": [
+      "Văloasa caprei"
+    ]
+  },
+  {
+    "nume": "Lactarius Turpis",
+    "categorie": [
+      "poisonous",
+      "lethal"
+    ],
+    "denumire_populara": [
+      "Râșcov jegos"
+    ]
+  },
+  {
+    "nume": "Pleurocybella Porrigens",
+    "categorie": [
+      "poisonous",
+      "lethal"
+    ],
+    "denumire_populara": [
+      "Aripi de înger"
+    ]
+  },
+  {
+    "nume": "Psiolocybe Cubensis(Psilocybe Mushrooms)",
+    "categorie": [
+      "poisonous",
+      "highly hallucinogenic",
+      "medicinal"
+    ],
+    "denumire_populara": [
+      "Ciuperca halucinogenă"
+    ]
+  },
+  {
+    "nume": "Rubroboletus",
+    "categorie": [
+      "poisonous"
+    ],
+    "denumire_populara": [
+      "Buretele dracului"
+    ]
+  },
+  {
+    "nume": "Marasmius Oreades",
+    "categorie": [
+      "unrecommended",
+      "conditionally edible"
+    ],
+    "denumire_populara": [
+      "Buretele de rouă"
+    ]
+  },
+  {
+    "nume": "Amanita Regalis",
+    "categorie": [
+      "poisonous"
+      
+    ],
+    "denumire_populara": [
+      "Amanita Regală"
+    ]
+  },
+  {
+    "nume": "Laetiporus Sulphureus",
+    "categorie": [
+      "conditionally edible"
+      
+    ],
+    "denumire_populara": [
+      "Pui de pădure",
+      "Iască galbenă"
+    ]
+  },
+  {
+    "nume": "Lycoperdon Perlatum",
+    "categorie": [
+      "conditionally edible",
+      "medicinal"
+      
+    ],
+    "denumire_populara": [
+      "Cașul ciorii"
+    ]
+  },
+  {
+    "nume": "Hypholoma Fasciculare",
+    "categorie": [
+      "highly poisonous"
+      
+    ],
+    "denumire_populara": [
+      "Ghebă pucioasă",
+      "Ciuciuleți nebuni"
+    ]
+  },
+  {
+    "nume": "Coprinopsis Picacea",
+    "categorie": [
+      "inedbile"
+      
+    ],
+    "denumire_populara": [
+      "Buretele ciocănitoarei",
+      "Coprin pestriț"
+    ]
+  },
+  {
+    "nume": "Tremella Mesenterica",
+    "categorie": [
+      "edible",
+      "medicinal"
+      
+    ],
+    "denumire_populara": [
+      "Păpărada",
+      "Ciupercă tremurătoare"
+    ]
+  },
+  {
+    "nume": "Bjerkandera Adusta",
+    "categorie": [
+      "inedbile"
+      
+    ],
+    "denumire_populara": [
+      "Fumăreasă"
+      
+    ]
+  },
+  {
+    "nume": "Calocera Viscosa",
+    "categorie": [
+      "inedbile"
+      
+    ],
+    "denumire_populara": [
+      "Barba caprei",
+      "Furculițe"
+    ]
+  },
+  {
+    "nume": "Clathrus Archeri",
+    "categorie": [
+      "inedbile"
+      
+    ],
+    "denumire_populara": [
+      "Degetele diavolului"
+    ]
+  },
+  {
+    "nume": "Lactifluus Piperatus",
+    "categorie": [
+      "conditionally edible",
+      "medicinal"
+      
+    ],
+    "denumire_populara": [
+      "Lăptucă iute",
+      "Iuțari"
+    ]
+  },
+  {
+    "nume": "Ganoderma Lucidum",
+    "categorie": [
+      "inedbile",
+      "medicinal"
+      
+    ],
+    "denumire_populara": [
+      "Ciuperca Reishi",
+      "Lingurița zânelor",
+      "Ciuperca Nemuririi"
+    ]
+  }
+]
